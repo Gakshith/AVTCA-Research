@@ -32,7 +32,7 @@ codex login
 
 echo ""
 echo "==> Verifying API access..."
-if codex exec "reply with exactly: ok" -a never 2>&1 | head -5 | grep -qi ok; then
+if codex exec "reply with exactly: ok" --dangerously-bypass-approvals-and-sandbox 2>&1 | head -5 | grep -qi ok; then
   echo "SUCCESS: Codex auth is working."
   codex login status
   exit 0
