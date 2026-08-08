@@ -1,0 +1,2 @@
+/home/922933190/AVTCA-Research/datasets/EngageNet/Train/subject_0_2msdhgqawh_vid_0_0_facecroppad.npy;/home/922933190/AVTCA-Research/datasets/EngageNet/Train/subject_0_2msdhgqawh_vid_0_0_croppad.wav;2;training
+/home/922933190/AVTCA-Research/datasets/EngageNet/Train/subject_0_2msdhgqawh_vid_0_1_facecroppad.npy;/home/922933190/AVTCA-Research/datasets/EngageNet/Train/subject_0_2msdhgqawh_vid_0_1_croppad.wav;1;training
